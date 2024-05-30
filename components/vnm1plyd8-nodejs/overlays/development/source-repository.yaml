@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vnm1plyd8-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vnm1plyd8-nodejs
